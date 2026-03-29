@@ -1,7 +1,9 @@
 {
-  "prompt": "Aerial view of a small cluster of dense, lush green trees at the center, surrounded by bare leafless dying trees and enveloping fog, with a city visible in the distant background at golden hour. No text, no labels, no axes. Cinematic, melancholic, drone photography style.",
+  "prompt": "A vast drought land, filled with thousands of small growing plant like thing (not exactly), each representing a potential tree, most of them withering and fading, and only some being normal, the healthy ones clustering the middle and the ones which are weaker, going outward into darkness. No text, no axes, no labels. Cinematic, melancholic, ultra-detailed, shit like a bird's eye view of the ground, a sunset (orange pinkish) view. Image should feel like the person is witnessing and FEELING the ecology dying in slow motion. --ar 16:9 --style raw (image edit prompt 2) Shift camera to have a top to bottom aerial view (60° angle), with good and strong and thick trees in the middle clustering like a circle, and many darkened and weakened thin trees as we go away from the centre, with a white fog around the weaker trees",
   "model": "Ideogram 3.0",
   "dataset_name": "Global Forest Watch — Primary Tropical Forest Loss 2023",
   "dataset_url": "https://www.globalforestwatch.org/dashboards/global/",
-  "insight": "The world lost 4.1 million hectares of primary tropical forest in 2023, leaving surviving forests as isolated islands surrounded by degradation and encroaching urbanization."
+  "insight": "The world lost 4.1 million hectares of primary tropical forest in 2023, leaving surviving forests as isolated islands surrounded by degradation and encroaching urbanization.",
+  "publish_email": true
+  
 }
